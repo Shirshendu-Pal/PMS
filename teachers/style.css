@@ -1,0 +1,25 @@
+.download{
+    width: 20px;
+    height: 20px;
+}
+.journalhead{
+    width: 70%;
+    height: 30px;
+}
+.journaldesc{
+    width: 70%;
+    height: 100px;
+    
+}
+
+.header{
+    width: 100%;
+    height: 120px;
+    background-color: rgb(170, 170, 192);
+}
+
+.logo{
+    width:90px;
+    height: 100px;
+    margin-top: 10px;
+}
